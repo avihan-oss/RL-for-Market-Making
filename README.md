@@ -38,3 +38,7 @@ python train.py
 - Incorporate real limit order book data
 - Risk-sensitive reward design (CVaR)
 - Offline RL and execution strategies
+
+
+## Report
+[Download Full Report](./report/rl_market_making.pdf)
